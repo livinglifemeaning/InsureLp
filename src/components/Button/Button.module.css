@@ -1,0 +1,27 @@
+.btn{
+    text-transform: uppercase;
+    cursor: pointer; 
+    font-weight: 700; 
+    letter-spacing: .1em;
+    padding: .6rem 0; 
+    width: 190px; 
+    text-align: center; 
+}
+.light{
+    color: var(--c-white); 
+    border: solid 2px var(--c-white); 
+}
+
+.light:hover{
+    background-color: var(--c-white);
+    color: var(--c-purple-text)
+}
+
+.dark{
+    color: var(--c-purple-text);
+    border: solid 2px var(--c-purple-text); 
+}
+.dark:hover{
+    background-color: var(--c-purple-text);
+    color: var(--c-white)
+}

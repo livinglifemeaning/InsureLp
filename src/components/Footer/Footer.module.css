@@ -1,0 +1,39 @@
+.footer{
+    background-color: hsl(273, 4%, 97%); 
+    position: relative; 
+    padding: 5rem var(--p-mobile); 
+}
+
+.accent{
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+}
+
+.footing{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;  
+    gap: 2rem; 
+    position: relative; 
+    z-index: 1; 
+}
+
+.separator{
+    width: 100%; 
+    height: .01em; 
+    background-color: hsl(273, 4%, 80%); 
+    margin: 2.5rem 0; 
+}
+
+@media (min-width: 750px) {
+    .footer{
+        padding: 5rem var(--p-desktop); 
+    }
+    .footing{
+        flex-direction: row; 
+        justify-content: space-between;
+        
+    }
+}

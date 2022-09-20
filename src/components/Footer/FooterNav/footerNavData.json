@@ -1,0 +1,16 @@
+[{
+    "link": "Our Company", 
+    "sublinks": ["How we work", "Why insure?", "Check price", "Reviews"]
+}, 
+{
+    "link": "Help Me", 
+    "sublinks": ["FAQ", "Terms of use?", "Privacy policy", "Cookies"]
+}, 
+{
+    "link": "Contact", 
+    "sublinks": ["Sales", "Support", "Live chat"]
+}, 
+{
+    "link": "Others", 
+    "sublinks": ["Careers", "Press", "Licenses"]
+}]

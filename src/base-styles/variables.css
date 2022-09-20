@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla:wght@400;700&display=swap');
+:root {
+  --f-primary: "Karla", sans-serif;
+  --f-headings: 'DM Serif Display', serif;
+  --c-purple-bg: hsl(256, 26%, 20%);
+  --c-gray-accent: hsl(216, 30%, 68%);
+  --c-purple-text: hsl(270, 9%, 17%);
+  --c-gray-text: hsl(273, 4%, 51%);
+  --c-white: hsl(0, 0%, 98%);
+  --p-desktop: 10rem; 
+  --p-mobile: 1.5rem; 
+}

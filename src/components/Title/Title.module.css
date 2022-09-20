@@ -1,0 +1,24 @@
+.title{
+    font-family: var(--f-headings);
+}
+
+.dark{
+    color: var(--c-purple-text);
+}
+.light{
+    color: var(--c-white); 
+}
+.big{
+    font-size: 2.8rem;  
+    line-height: 1em;
+}
+
+.small{
+    font-size: 2rem; 
+}
+
+@media (min-width: 750px) {
+    .big{
+        font-size: 3.2rem; 
+    }
+}

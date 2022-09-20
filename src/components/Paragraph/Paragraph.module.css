@@ -1,0 +1,10 @@
+.paragraph{
+    line-height: 1.6em; 
+}
+.dark{
+    color: var(--c-gray-text)
+}
+
+.light{
+    color: var(--c-white)
+}

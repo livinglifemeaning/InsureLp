@@ -1,0 +1,82 @@
+.hero{
+    display: flex; 
+    flex-direction: column-reverse; 
+}
+.hero > div:first-child{
+    background-color: var(--c-purple-bg);
+    position: relative; 
+    padding: 5rem var(--p-mobile); 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
+.hero > div:first-child > div{
+    position: relative; 
+    z-index: 5; 
+}
+
+.hero > div:first-child > p{
+    margin: 1rem 0 2rem;  
+}
+
+.accentRight, .accentLeft{
+    position: absolute; 
+}
+
+.accentRight{
+  bottom: -35%; right: 0; 
+}
+
+.accentLeft{
+    top: 0; 
+    left: 0; 
+}
+.separator {
+    width: 150px;
+    height: 2px;
+    background-color: var(--c-white);
+    margin-bottom: 2rem;
+  }
+  
+  .imageBox img{
+    width: 100%; 
+  }
+
+@media (min-width: 750px) {
+    .hero{
+        background-color: var(--c-purple-bg);
+        flex-direction: row;
+        position: relative; 
+    }
+    .hero > div {
+        width: 100%; 
+    }
+    .hero > div:first-child{
+        text-align: left;
+        align-items: flex-start;
+        padding: 5rem var(--p-desktop);
+    }
+    .accentRight{
+        top: 0; 
+        translate: 0 0; 
+        right: 0; 
+    }
+    .accentLeft{
+        bottom: 0; 
+        translate: 0 90%; 
+    }
+
+    .imageBox{
+        translate: 0 20%; 
+       
+    }
+    .imageBox img{
+        width: auto; 
+    }
+    .hero > div:first-child > div:nth-child(2){
+        max-width: 23rem;
+    }
+}

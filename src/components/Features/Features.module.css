@@ -1,0 +1,13 @@
+.features{
+    display: flex; 
+     flex-direction: column; 
+     gap: 3rem; 
+     margin: 4.5rem 0; 
+}
+
+@media (min-width: 750px) {
+    .features{
+        flex-direction: row; 
+        margin: 6rem 0 8rem; 
+    }
+}
