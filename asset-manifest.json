@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/InsureLp/static/css/main.e3c91d88.css",
+    "main.js": "/InsureLp/static/js/main.76a900af.js",
+    "static/media/image-intro-desktop.jpg": "/InsureLp/static/media/image-intro-desktop.2f3429f63753a67e322b.jpg",
+    "static/media/image-intro-mobile.jpg": "/InsureLp/static/media/image-intro-mobile.8b8c3185ce1388b2bb9e.jpg",
+    "static/media/logo.svg": "/InsureLp/static/media/logo.b84080a147fc2d2276186c0349edfeec.svg",
+    "static/media/bg-pattern-mobile-nav.svg": "/InsureLp/static/media/bg-pattern-mobile-nav.b2fceba3d85314c104868fce09cd879c.svg",
+    "static/media/bg-pattern-how-we-work-desktop.svg": "/InsureLp/static/media/bg-pattern-how-we-work-desktop.eb268c33d9921cd960db6b6ffa65c644.svg",
+    "static/media/bg-pattern-intro-left-desktop.svg": "/InsureLp/static/media/bg-pattern-intro-left-desktop.3a425b38f5531b055de49ec32822cf8c.svg",
+    "static/media/bg-pattern-intro-right-desktop.svg": "/InsureLp/static/media/bg-pattern-intro-right-desktop.0c130b3f008bf9eb1d1b204d6bdd53e0.svg",
+    "static/media/bg-pattern-footer-desktop.svg": "/InsureLp/static/media/bg-pattern-footer-desktop.700c39ea607592bfacaf790991a07f0b.svg",
+    "static/media/bg-pattern-footer-mobile.svg": "/InsureLp/static/media/bg-pattern-footer-mobile.9f048cf0d8710a041f70534fbc93ed7a.svg",
+    "static/media/bg-pattern-how-we-work-mobile.svg": "/InsureLp/static/media/bg-pattern-how-we-work-mobile.96cd9d0635dc0b4420227ebc8668096d.svg",
+    "static/media/bg-pattern-intro-left-mobile.svg": "/InsureLp/static/media/bg-pattern-intro-left-mobile.111709ef92e6f76465a94048f9c12fad.svg",
+    "static/media/bg-pattern-intro-right-mobile.svg": "/InsureLp/static/media/bg-pattern-intro-right-mobile.0354e57129409ea983cd642c14acfb82.svg",
+    "static/media/icon-affordable-prices.svg": "/InsureLp/static/media/icon-affordable-prices.a14b80772734da267900f7318cf981cc.svg",
+    "static/media/icon-people-first.svg": "/InsureLp/static/media/icon-people-first.d7caeec6d85bd1e295394236448c7dc9.svg",
+    "index.html": "/InsureLp/index.html",
+    "static/media/icon-snappy-process.svg": "/InsureLp/static/media/icon-snappy-process.eea918825472aa9c0993c85ced5522e7.svg",
+    "main.e3c91d88.css.map": "/InsureLp/static/css/main.e3c91d88.css.map",
+    "main.76a900af.js.map": "/InsureLp/static/js/main.76a900af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c91d88.css",
+    "static/js/main.76a900af.js"
+  ]
+}
